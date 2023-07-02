@@ -1,0 +1,10 @@
+.navbar-brand {
+  font-size: 2rem !important;
+  font-weight: 600;
+}
+
+.container-fluid {
+  padding: 4px;
+  margin-left: 2rem !important;
+  margin-right: 5rem !important;
+}

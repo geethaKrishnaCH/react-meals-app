@@ -1,0 +1,17 @@
+.main-image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+  height: 20rem;
+  overflow: hidden;
+}
+
+.main-image img {
+  width: 110%;
+  height: 100%;
+  object-fit: cover;
+  transform: rotateZ(-3deg) translateY(-4rem) translateX(-1rem);
+  z-index: -1;
+}
